@@ -1,6 +1,6 @@
 <!---->
 <div align="center">
-<img src="./ReadMeFiles/app.png" align="center">
+<img src="./assets/img/app.png" align="center">
 </div>
 
 # Foodvrse App Landing Page
